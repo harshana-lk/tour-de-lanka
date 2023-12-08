@@ -181,13 +181,13 @@
 
 @media (max-width: 768px) {
   .hero-header-height {
-    height: 60%;
+    height: 80dvh;
   }
 }
 
 @media (max-width: 992px) {
   .hero-header-height {
-    height: 60%;
+    height: 80dvh;
   }
 }
 
